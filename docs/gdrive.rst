@@ -37,7 +37,7 @@ To access your Google Drive, you must first add your Google Drive account to App
 
 4.	Under Login accounts, choose the domain for your Google Drive account.
 
-5.	5.	The **Sign in with Google** dialog box is displayed. Enter the user name and password for your Google Drive account when prompted.
+5. The **Sign in with Google** dialog box is displayed. Enter the user name and password for your Google Drive account when prompted.
 
 6.	After your Google Drive account is added to AppStream, your Google Drive folder displays in **My Files**.
 
@@ -58,6 +58,7 @@ Often times you will want to open a file located on Google Drive from within an 
 2. Browse to **This PC > Google Drive** and select the appropriate drive to where your file(s) is located.'
 
 .. image:: _static/file_explorer_gdrive.png
+   :scale: 50%
 
 Upload and download files between your local computer and your Google Drive
 ----------------
