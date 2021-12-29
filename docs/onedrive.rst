@@ -72,3 +72,18 @@ Upload and download files between your local computer and your OneDrive
     *	To download a file from the folder, select the file that you want to download, choose the down arrow to the right of the file name, and choose **Download**.
 
 .. image:: _static/myfiles_upload_download.png
+
+Remove OneDrive permissions from AppStream
+----------------
+
+If you no longer want to use OneDrive during your AppStream 2.0 streaming sessions, follow these steps to remove OneDrive permissions from AppStream 2.0.
+
+_Note: You can restore these permissions at any time during an AppStream 2.0 streaming session._
+
+1. Sign in to [Office 365](https://portal.office.com/) with your account.
+
+2. In the right pane, under **My accounts**, choose **My account**.
+
+3. On the account dashboard page, in **App permissions**, choose **Change app permissions**.
+
+4. On the **App permissions** page, under **Amazon AppStream 2.0**, choose **Revoke**.
