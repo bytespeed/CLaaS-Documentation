@@ -17,6 +17,7 @@ Contents
    onedrive
    gdrive
    print
+   navbar
 
 ByteSpeed CLaaS has its documentation hosted on Read the Docs.
 
