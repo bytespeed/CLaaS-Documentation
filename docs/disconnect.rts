@@ -3,11 +3,12 @@ Ending your Session
 
 If you end your session by choosing End session on the navigation toolbar, you are prompted to save any open documents and are then disconnected from the streaming instance. Any unsaved documents cannot be recovered.
 
-To end your session:
+**To end your session:**
 
 1. Select Profile from the navigation bar
 
     .. image:: _static/navbar_profile.png
+	   :scale: 50%
 
 2. Select **End session** to logout
 
