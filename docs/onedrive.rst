@@ -43,6 +43,19 @@ To access your OneDrive, you must first add your OneDrive account to AppStream:
 
 7.	To work with your files and folders in **OneDrive**, choose the OneDrive folder and browse to the file or folder you want. If you do not want to work with files in OneDrive during this streaming session, close the **My Files** dialog box.
 
+Open a files located in One Drive from within an application
+----------------
+
+Often times you will want to open a file located on One Drive from within an application you are using on Virtual Labs.  The following are general steps using Microsoft Word to illustrate this process.  Note: Every application is different but the process is very similar.
+
+1. From within Microsoft Word go to **File > Open > Browse**
+
+.. image:: _static/word_open_file.png
+
+2. Browse to **This PC > One Drive** and select the appropriate drive to where your file(s) is located.'
+
+.. image:: _static/file_explorer_onedrive.png
+
 Upload and download files between your local computer and your OneDrive
 ----------------
 
