@@ -8,7 +8,7 @@ Print locally by exporting to a PDF
 
 Instructions:
 
-1 From the app toolbar, click File > Print
+1. From the app toolbar, click File > Print
 
 2. In the print dialog box, select DCV Printer
 
