@@ -20,3 +20,4 @@ Contents
 
    usage
    api
+ByteSpeed CLaaS has its documentation hosted on Read the Docs.
