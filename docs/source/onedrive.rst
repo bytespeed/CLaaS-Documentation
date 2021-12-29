@@ -30,6 +30,7 @@ To access your OneDrive, you must first add your OneDrive account to AppStream:
 .. image:: _static/myfiles_addstorage.png
 
 3.	Choose **OneDrive**.
+
 .. image:: _static/myfiles_onedrive.png
 
 4.	Under Login accounts, choose the domain for your OneDrive account.
