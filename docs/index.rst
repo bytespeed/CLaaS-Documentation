@@ -18,6 +18,7 @@ Contents
    gdrive
    print
    navbar
+   disconnect
 
 ByteSpeed CLaaS has its documentation hosted on Read the Docs.
 
