@@ -1,18 +1,18 @@
-Using OneDrive on ByteSpeed CLaSS
+Using OneDrive
 =====
 
 You can do the following in OneDrive
 ------------
 
-To use Lumache, first install it using pip:
-
-* Open and edit files and folders that you store in OneDrive. Content that is stored in OneDrive is specific to you. Other users cannot access your content unless you choose to share it.
+* **Open and edit files and folders** that you store in OneDrive. Content that is stored in OneDrive is specific to you. Other users cannot access your content unless you choose to share it.
 
 
-* Upload and download files between your local computer and OneDrive. Any changes that you make to your files and folders in OneDrive during a streaming session are automatically backed up and synchronized. They are available to you when you sign in to your OneDrive account and access OneDrive outside of your streaming session.
+* **Upload and download files between your local computer and OneDrive**. Any changes that you make to your files and folders in OneDrive during a streaming session are automatically backed up and synchronized. They are available to you when you sign in to your OneDrive account and access OneDrive outside of your streaming session.
 
 
-* When you are working in an application, you can access your files and folders that are stored in OneDrive. Choose File, Open from the application interface and browse to the file or folder that you want to open. To save your changes in a file to OneDrive, choose **File, Save** from the application and browse to the location in OneDrive where you want to save the file.
+* When you are working in an application, you can **access your files and folders that are stored in OneDrive**. Choose File, Open from the application interface and browse to the file or folder that you want to open.
+
+* To **save your changes** in a file to OneDrive, choose **File, Save** from the application and browse to the location in OneDrive where you want to save the file.
 
 
 * You can also access OneDrive by choosing **My Files** from the top left of the AppStream toolbar.
@@ -24,6 +24,8 @@ Add your OneDrive account to AppStream
 To access your OneDrive, you must first add your OneDrive account to AppStream:
 
 1.	In the top left of the AppStream 2.0 toolbar, choose the **My Files** icon.
+
+.. image:: _static/navigation_myfiles.png
 
 2.	In the **My Files** dialog box, choose **Add Storage**.
 
@@ -46,7 +48,7 @@ To access your OneDrive, you must first add your OneDrive account to AppStream:
 Open a files located in One Drive from within an application
 ----------------
 
-Often times you will want to open a file located on One Drive from within an application you are using on Virtual Labs.  The following are general steps using Microsoft Word to illustrate this process.  Note: Every application is different but the process is very similar.
+Often times you will want to open a file located on One Drive from within an application you are using on AppStream.  The following are general steps using Microsoft Word to illustrate this process.  Note: Every application is different but the process is very similar.
 
 1. From within Microsoft Word go to **File > Open > Browse**
 
@@ -61,6 +63,8 @@ Upload and download files between your local computer and your OneDrive
 ----------------
 
 1.	In the top left of the AppStream 2.0 toolbar, choose the **My Files** icon.
+
+.. image:: _static/navigation_myfiles.png
 
 2.	In the **My Files** dialog box, choose **OneDrive**.
 
