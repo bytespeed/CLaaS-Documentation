@@ -51,6 +51,7 @@ Often times you will want to open a file located on One Drive from within an app
 1. From within Microsoft Word go to **File > Open > Browse**
 
 .. image:: _static/word_open_file.png
+   :scale: 50%
 
 2. Browse to **This PC > One Drive** and select the appropriate drive to where your file(s) is located.'
 
