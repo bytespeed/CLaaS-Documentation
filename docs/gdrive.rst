@@ -45,7 +45,7 @@ To access your Google Drive, you must first add your Google Drive account to App
 
 7.	To work with your files and folders in **Google Drive**, choose the Google Drive folder and browse to the file or folder you want. If you do not want to work with files in Google Drive during this streaming session, close the **My Files** dialog box.
 
-Open a files located in One Drive from within an application
+Open a files located in Google Drive from within an application
 ----------------
 
 Often times you will want to open a file located on Google Drive from within an application you are using on AppStream.  The following are general steps using Microsoft Word to illustrate this process.  Note: Every application is different but the process is very similar.
@@ -55,7 +55,7 @@ Often times you will want to open a file located on Google Drive from within an 
 .. image:: _static/word_open_file.png
    :scale: 50%
 
-2. Browse to **This PC > One Drive** and select the appropriate drive to where your file(s) is located.'
+2. Browse to **This PC > Google Drive** and select the appropriate drive to where your file(s) is located.'
 
 .. image:: _static/file_explorer_gdrive.png
 
