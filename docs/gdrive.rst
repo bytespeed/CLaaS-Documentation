@@ -64,8 +64,6 @@ Upload and download files between your local computer and your Google Drive
 
 1.	In the top left of the AppStream 2.0 toolbar, choose the **My Files** icon.
 
-.. image:: _static/navigation_myfiles.png
-
 2.	In the **My Files** dialog box, choose **Google Drive**.
 
 3.	Navigate to an existing folder, or choose **Add Folder** to create a folder.
