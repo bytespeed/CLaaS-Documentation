@@ -26,4 +26,4 @@ Users are considered idle when they stop providing keyboard or mouse input durin
 Max Session Duration
 ------------
 
-AppStream session length is capped at 60 minutes (Default)*. If you are still connected five minutes before this limit is reached, you are prompted to save any open documents before being disconnected. After this time elapses, the instance is terminated and replaced by a new instance.
+AppStream session length is capped at 60 minutes *(Default)*. If you are still connected five minutes before this limit is reached, you are prompted to save any open documents before being disconnected. After this time elapses, the instance is terminated and replaced by a new instance.
