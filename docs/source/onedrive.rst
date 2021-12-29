@@ -26,6 +26,7 @@ To access your OneDrive, you must first add your OneDrive account to AppStream:
 1.	In the top left of the AppStream 2.0 toolbar, choose the **My Files** icon.
 
 2.	In the **My Files** dialog box, choose **Add Storage**.
+
 .. image:: _static/myfiles_addstorage.png
 
 3.	Choose **OneDrive**.
