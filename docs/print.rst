@@ -8,14 +8,14 @@ Print locally by exporting to a PDF
 
 Instructions:
 
-1. From the app toolbar, click File > Print
+1. From the app toolbar, click **File > Print**
 
-2. In the print dialog box, select DCV Printer
+2. In the print dialog box, select **DCV Printer**
 
-3. Check the Print to file box and enter the name of the file. Click Print
+3. Check the **Print to file** box and enter the name of the file. Click **Print**
 
 .. image:: _static/appstream_print.png
 
-4. A "Save Print Output As" dialog box will pop up next. Give the file any name you wish and click Save
+4. A "Save Print Output As" dialog box will pop up next. Give the file any name you wish and click **Save**
 
 5. The file will open in new tab in your web browser as a PDF. Save it on your computer or print it
