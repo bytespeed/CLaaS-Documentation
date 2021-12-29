@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'ByteSpeed CLaSS'
+copyright = '2021, ByteSpeed'
+author = 'ByteSpeed'
 
 release = '0.1'
 version = '0.1.0'
