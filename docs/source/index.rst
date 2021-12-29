@@ -14,7 +14,7 @@ Contents
 
 .. toctree::
 
-   usage
+   onedrive
    api
 
 ByteSpeed CLaaS has its documentation hosted on Read the Docs.
