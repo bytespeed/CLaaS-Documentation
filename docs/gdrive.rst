@@ -82,7 +82,7 @@ Remove Google Drive permissions from AppStream
 
 If you no longer want to use Google Drive during your AppStream 2.0 streaming sessions, follow these steps to remove Google Drive permissions from AppStream 2.0.
 
-_Note: You can restore these permissions at any time during an AppStream 2.0 streaming session._
+*Note: You can restore these permissions at any time during an AppStream 2.0 streaming session.*
 
 1. Go to https://myaccount.google.com
 

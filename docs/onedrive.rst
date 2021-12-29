@@ -81,7 +81,7 @@ Remove OneDrive permissions from AppStream
 
 If you no longer want to use OneDrive during your AppStream 2.0 streaming sessions, follow these steps to remove OneDrive permissions from AppStream 2.0.
 
-_Note: You can restore these permissions at any time during an AppStream 2.0 streaming session._
+*Note: You can restore these permissions at any time during an AppStream 2.0 streaming session.*
 
 1. Sign in to `Office 365 <https://portal.office.com/>`_ with your account.
 

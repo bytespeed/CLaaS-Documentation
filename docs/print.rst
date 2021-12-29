@@ -4,11 +4,11 @@ Printing
 Print locally by exporting to a PDF
 ------------
 
-_Note: The print dialog may look different depending on the application you are trying to print from. The example below is from Notepad++. Regardless, the process should be very similar, using the DCV Printer as your selected printer._
+*Note: The print dialog may look different depending on the application you are trying to print from. The example below is from Notepad++. Regardless, the process should be very similar, using the DCV Printer as your selected printer.*
 
 Instructions:
 
-! From the app toolbar, click File > Print
+1 From the app toolbar, click File > Print
 
 2. In the print dialog box, select DCV Printer
 
