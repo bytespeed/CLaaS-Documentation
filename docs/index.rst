@@ -19,6 +19,8 @@ Contents
    print
    navbar
    disconnect
+   issues_faq
+   programs
 
 ByteSpeed CLaaS has its documentation hosted on Read the Docs.
 
