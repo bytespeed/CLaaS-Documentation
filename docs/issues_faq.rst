@@ -23,7 +23,7 @@ Application appears as a black box
 
 If an app's window appears as a black box instead of showing the app, First wait a minute to see if application loads as the first application launch of the session may be slower then usual. If it still has not shown, follow these steps:
 
-1. Close AppStream tab and reconnect to your existing session.
+1. Close AppStream tab and reconnect to your existing session
     * If that doesnt work continue on
 2. Click the User icon in the Navigation Bar
 3. Select End Session
