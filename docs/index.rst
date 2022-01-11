@@ -14,8 +14,8 @@ Contents
 
 .. toctree::
 
-   onedrive
    gdrive
+   onedrive
    print
    navbar
    disconnect
