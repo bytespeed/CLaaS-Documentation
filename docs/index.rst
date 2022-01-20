@@ -7,7 +7,7 @@ Check out the left hand side bar for instuctions or use the included search on t
 
 .. note::
 
-   This project is under active development.
+   This documentation is under active development.
 
 Contents
 --------
