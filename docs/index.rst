@@ -1,4 +1,4 @@
-Welcome to ByteSpeeds CLaaS Help and Use documentation!
+ByteSpeeds CLaaS Help and Use Documentation
 ===================================
 
 **ByteSpeed CLaSS** is a desktop lab replacement for schools utilizing AWS AppStream 2.0.
