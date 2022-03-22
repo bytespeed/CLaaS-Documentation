@@ -21,7 +21,7 @@ The initial two-minute load time after you have selected your application is the
 Application appears as a black box
 ------------
 
-If an app's window appears as a black box instead of showing the app, First wait a minute to see if application loads as the first application launch of the session may be slower then usual. If it still has not shown, follow these steps:
+If an app's window appears as a black box instead of showing the app, first wait a minute to see if application loads as the first application launch of the session may be slower than usual. If it still has not shown, follow these steps:
 
 1. Close AppStream tab and reconnect to your existing session
     * If that doesnt work continue on
@@ -32,7 +32,7 @@ If an app's window appears as a black box instead of showing the app, First wait
 Screen resolution errors or Windows cut off
 ------------
 
-In certain applications (ex. Autodesk or Adobe) you may receive an error saying it requires a higer resolution or certain windows will have elements that are off the screen and you cannot access. In these cases you can try the following in the nav bar:
+In certain applications (ex. Autodesk or Adobe) you may receive an error saying it requires a higher resolution or certain windows will have elements that are off the screen and you cannot access. In these cases you can try the following in the nav bar:
 
 1. Set AppStream to Fullscreen
 2. Set the sceen resolution manualy and it will scale down to your devices resolution
