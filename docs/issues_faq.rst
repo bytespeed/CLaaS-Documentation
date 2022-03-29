@@ -49,7 +49,7 @@ In certain applications (ex. Photoshop) you need to use a tool that requires you
     
 .. image:: _static/chromebook_use_search.png
 
-2. Using the Navigation bar, Select Fn, Select Alt. Left Click normally where you need to Alt+Click. After, select Alt again to turn off the selection.
+2. Using the :ref:`Navigation Bar <navbar>`, Select Fn, Select Alt. Left Click normally where you need to Alt+Click. After, select Alt again to turn off the selection.
 
 .. image:: _static/chromebook_fn_alt.png
 
