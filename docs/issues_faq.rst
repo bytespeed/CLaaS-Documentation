@@ -45,7 +45,7 @@ Chromebook Alt+Click Issues (Adobe tools)
 In certain applications (ex. Photoshop) you need to use a tool that requires you to use Alt+Click (ex. Healing Brush Tool). By default Chromebooks use Alt+CLick as a shortcut to the Right-Click dialog. In these instances you can do one of the following:
 
 1. Set the Right-Click dialog shortcut to Search+Click:
-    * Open `chrome://flags <chrome://flags>`_ on your Chromebook. Then search for and enable the feature Use Search+Click for right click.
+    * Open chrome://flags on your Chromebook. Then search for and enable the feature Use Search+Click for right click.
     
 .. image:: _static/chromebook_use_search.png
 
