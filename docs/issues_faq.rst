@@ -46,8 +46,11 @@ In certain applications (ex. Photoshop) you need to use a tool that requires you
 
 1. Set the Right-Click dialog shortcut to Search+Click:
     * Open chrome://flags on your Chromebook. Then search for and enable the feature Use Search+Click for right click.
+    
 .. image:: _static/chromebook_use_search.png
+
 2. Using the Navigation bar, Select Fn, Select Alt. Left Click normally where you need to Alt+Click. After, select Alt again to turn off the selection.
+
 .. image:: _static/chromebook_fn_alt.png
 
 Invalid SAML Response
