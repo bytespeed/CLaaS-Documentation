@@ -39,6 +39,19 @@ In certain applications (ex. Autodesk or Adobe) you may receive an error saying 
 
 .. image:: _static/set_resolution.png
 
+Setting streaming mode (Latency Issues)
+------------
+
+In certain circumstances you may want to check the streaming mode AppStream is set to. Making sure it’s in Best Responsiveness may help alleviate latency issues. You can do the following to check:
+
+1. Select Setting in the Nav Bar
+2. Click on Streaming mode
+3. Make sure Best responsiveness is selected.
+
+Note: Latency issues can also be cause by AppSream server loads and local network performance.
+
+.. image:: _static/streaming_mode.png
+
 Chromebook Alt+Click Issues (Adobe tools)
 ------------
 
