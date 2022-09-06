@@ -69,7 +69,7 @@ In certain applications (ex. Photoshop) you need to use a tool that requires you
 Invalid SAML Response
 ------------
 
-If you see a message that says "Your request included an invalid SAML response" it means you are not authorized for access to AppStream.
+If you see a message that says "Your request included an invalid SAML response" it means you are not authorized for access to AppStream. Please work with your IT Team to add your user to the appopriate group or add the attribute value to your profile.
 
 .. image:: _static/invalid_saml.png
    :scale: 50%
