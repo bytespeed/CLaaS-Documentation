@@ -86,7 +86,7 @@ If you see a message that says "Error: malformed_certificate" it means the SAML 
 In order to fix the error please do the following:
 
 1. Log into your google admin
-	* `admin.google.com/ac/apps <https://admin.google.com/ac/apps>`
+	* https://admin.google.com/ac/apps
 2. Find the AppStream SAML app
 3. Manage the certificates for the app and add a new certificate
  .. image:: _static/new_certificate.png
