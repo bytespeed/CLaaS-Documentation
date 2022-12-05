@@ -93,7 +93,7 @@ In order to fix the error please do the following:
    :scale: 75%
 4. Select the new certificate from the certificate dropdown
 	* Note: After ​creating a new certificate you must also select it from the dropdown. This isn't done automatically by Google.
-.. image:: _static/select_certificate.png
+ .. image:: _static/select_certificate.png
    :scale: 75%
 5. Save your changes
 6. Send ByteSpeed a copy of your new metadata.xml file
