@@ -81,7 +81,7 @@ Malformed Certificate Error
 If you see a message that says "Error: malformed_certificate" it means the SAML app for AppStream more than likely has an expired certificate.
 
 .. image:: _static/malformed_certificate.png
-   :scale: 50%
+   :scale: 100%
 
 In order to fix the error please do the following:
 
@@ -90,11 +90,11 @@ In order to fix the error please do the following:
 2. Find the AppStream SAML app
 3. Manage the certificates for the app and add a new certificate
  .. image:: _static/new_certificate.png
-   :scale: 50%
+   :scale: 75%
 4. Select the new certificate from the certificate dropdown
 	* Note: After ​creating a new certificate you must also select it from the dropdown. This isn't done automatically by Google.
 .. image:: _static/select_certificate.png
-   :scale: 50%
+   :scale: 75%
 5. Save your changes
 6. Send ByteSpeed a copy of your new metadata.xml file
 	* cloud@bytespeed.com
