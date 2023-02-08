@@ -105,7 +105,7 @@ Google hasn't verified this app (Google Drive Link)
 
 If you see a message that says "Google hasn't verified this app". Please work with your IT Team to add the AppStream Google Drive Connector to the approved app list in Google Workspaces using the instuctions below:
 
-.. image:: _google_unverified_app.png
+.. image:: _static/google_unverified_app.png
    :scale: 75%
 
 In order to fix the error please do the following:
@@ -113,7 +113,7 @@ In order to fix the error please do the following:
 1. Log into your google admin
 	* https://admin.google.com/ac/apps
 2. On the left side navigate to Security > Access and data control > API controls
-3. At the top of the page, in the App access control section, choose MANAGE THIRD-PARTY APP ACCESS.
+3. In the App access control section, choose MANAGE THIRD-PARTY APP ACCESS.
 4. Choose Add app, and then choose OAuth App Name Or Client ID.
 6. Enter the Amazon AppStream 2.0 OAuth client ID for your AWS Region, and then choose SEARCH.
     * Search for this Client ID: 723951369598-6tvdlf52g2qh0qa141o4k1avasvnj51i.apps.googleusercontent.com
