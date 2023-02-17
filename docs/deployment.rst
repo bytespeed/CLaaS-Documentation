@@ -56,5 +56,5 @@ Setting up GAM is the easiest way to deploy the AppStream custom Attribute if yo
 
 15. Return to the installer and click Finish. Congratulations you have Installed and configured GAM!
 
-16. For future use please right click and save as this link to C:/GAM: `Attribute Script <https://raw.githubusercontent.com/bytespeed/gsuite-custom-attribute-deployment/main/gam-attribute-update.ps1>`_
+16. For future use please right click and click save link as. Save this to C:/GAM: `Attribute Script <https://raw.githubusercontent.com/bytespeed/gsuite-custom-attribute-deployment/main/gam-attribute-update.ps1>`_
 	* Make sure to save as a .ps1 file and not .txt
