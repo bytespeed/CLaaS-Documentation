@@ -21,4 +21,5 @@ Contents
    disconnect
    issues_faq
    programs
+   deployment
 
