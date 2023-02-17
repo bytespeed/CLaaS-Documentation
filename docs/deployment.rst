@@ -10,6 +10,7 @@ Setting up GAM is the easiest way to deploy the AppStream custom Attribute if yo
     * Download the release ending in windows-x86_64.msi
 2. Run the Installer. In the Windows protected your PC window click more info, then click Run anyway.
 3. Run through the setup
+ .. only:: html
    .. figure:: _static/gam/GAM_Setup.gif
 4. A command prompt window will open. In that window:
 	* When asked Is this a new install or an upgrade?, Type 'n' and press Enter
@@ -26,7 +27,7 @@ Setting up GAM is the easiest way to deploy the AppStream custom Attribute if yo
 	* It will then list the available APIs. When prompted type `c' and press Enter
 10. In the web browser that opens scroll all the way down and press Allow, then return to the command prompt window:=.
 11. When asked Are you ready to authorize GAM to manage Google Workspace user data and settings type `y' and press Enter. Then enter your email address and press Enter.
-   .. figure:: _static/gam/GAM_API.gif
+.. figure:: _static/gam/GAM_API.gif
 12. GAM will then test to see if your user has permissions for each API. Some of them should fail the first time.  Copy the url to Authorize your account and open it in the web browser.
 13. Click AUTHORIZE in the Add a new Client ID popup. 
 .. image:: _static/gam/GAM_clientid.png
