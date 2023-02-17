@@ -35,14 +35,13 @@ Setting up GAM is the easiest way to deploy the AppStream custom Attribute if yo
 9. Back in the command prompt window:
 	* When asked if you want to authorize GAM to preform Google Workspace management operations, type 'y' and press Enter.
 	* It will then list the available APIs. When prompted type 'c' and press Enter
+	 .. image:: _static/gam/GAM_api.png
 	
 10. In the web browser that opens scroll all the way down and press Allow, then return to the command prompt window.
 
 11. When asked Are you ready to authorize GAM to manage Google Workspace user data and settings type 'y' and press Enter. Then enter your email address and press Enter.
 
-.. only:: html
-
-   .. figure:: _static/gam/GAM_API.gif
+ .. image:: _static/gam/GAM_apifail.png
    
 12. GAM will then test to see if your user has permissions for each API. Some of them should fail the first time.  Copy the URL to Authorize your account and open it in the web browser.
 
