@@ -12,9 +12,9 @@ Setting up GAM is the easiest way to deploy the AppStream custom Attribute if yo
 3. Run through the setup
 .. image:: _static/gam/GAM_Setup.gif
 4. A command prompt window will open. In that window:
-	*When asked Is this a new install or an upgrade?, Type 'n' and press Enter
-	*When asked Are you ready to set up a Google APU Project for GAM?, Type 'y' and press Enter
-	*Enter your email address (Needs Super Admin Rights) and press Enter
+	* When asked Is this a new install or an upgrade?, Type 'n' and press Enter
+	* When asked Are you ready to set up a Google APU Project for GAM?, Type 'y' and press Enter
+	* Enter your email address (Needs Super Admin Rights) and press Enter
 .. image:: _static/gam/GAM_init.png
 5. A web browser will open. Sign into your Google Account and Allow GAM Project Creation to access your Google Account
 6. Back int hee command prompt wait for the project creation to complete. You may need to agree to the Google Cloud Terms of Service. Copy and Paste the link in the Command Prompt to do so.
@@ -22,8 +22,8 @@ Setting up GAM is the easiest way to deploy the AppStream custom Attribute if yo
 .. image:: _static/gam/GAM_oath.png
 8. An OAuth client created window will pop up. Copy the Client ID and paste it into the command prompt window, then press enter. Then do the same for the Client Secret.
 9. Back in the command prompt window:
-	*When asked if you want to authorize GAM to preform Google Workspace management operations, type `y' and press Enter.
-	*It will then list the available APIs. When prompted type `c' and press Enter
+	* When asked if you want to authorize GAM to preform Google Workspace management operations, type `y' and press Enter.
+	* It will then list the available APIs. When prompted type `c' and press Enter
 10. In the web browser that opens scroll all the way down and press Allow, then return to the command prompt window:=.
 11. When asked Are you ready to authorize GAM to manage Google Workspace user data and settings type `y' and press Enter. Then enter your email address and press Enter.
 .. image:: _static/gam/GAM_API.gif
