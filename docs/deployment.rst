@@ -11,7 +11,9 @@ Setting up GAM is the easiest way to deploy the AppStream custom Attribute if yo
 2. Run the Installer. In the Windows protected your PC window click more info, then click Run anyway.
 3. Run through the setup
  .. only:: html
-    .. figure:: _static/gam/GAM_Setup.gif
+
+   .. figure:: _static/gam/GAM_Setup.gif
+   
 4. A command prompt window will open. In that window:
 	* When asked Is this a new install or an upgrade?, Type 'n' and press Enter
 	* When asked Are you ready to set up a Google APU Project for GAM?, Type 'y' and press Enter
