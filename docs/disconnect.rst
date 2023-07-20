@@ -1,7 +1,7 @@
 Ending your Session
 =====
 
-When you are done using AppStream, ByteSpeed recommends that you close the tab in which you have AppStream open. This then will terminate your session after 5 minutes and give time for any pending file syncs to happen between AppStream and your cloud storage.
+When you are done using AppStream make sure to save any work, then ByteSpeed recommends that you close the tab in which you have AppStream open. This then will terminate your session after 5 minutes and give time for any pending file syncs to happen between AppStream and your cloud storage.
 
 
 Idle Disconnect
