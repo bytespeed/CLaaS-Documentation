@@ -1,18 +1,8 @@
 Ending your Session
 =====
 
-If you end your session by choosing End session on the navigation toolbar, you are prompted to save any open documents and are then disconnected from the streaming instance. Any unsaved documents cannot be recovered.
+When you are done using AppStream, ByteSpeed recommends that you close the tab in which you have AppStream open. This then will terminate your session after 5 minutes and give time for any pending file syncs to happen between AppStream and your cloud storage.
 
-**To end your session:**
-
-1. Select Profile from the navigation bar
-
-    .. image:: _static/navbar_profile.png
-	   :scale: 50%
-
-2. Select **End session** to logout
-
-    .. image:: _static/navbar_endsession.png
 
 Idle Disconnect
 ------------
@@ -27,3 +17,18 @@ Max Session Duration
 ------------
 
 AppStream session length is capped at 60 minutes *(Default)*. If you are still connected five minutes before this limit is reached, you are prompted to save any open documents before being disconnected. After this time elapses, the instance is terminated and replaced by a new instance.
+
+
+Ending Fozen Session or for Testing
+------------
+
+ByteSpeed only recommends ending you session manually if you are experiencing issues with your instance and plan on start a new session right away or if you have no saved files to sync.
+
+1. Select Profile from the navigation bar
+
+    .. image:: _static/navbar_profile.png
+	   :scale: 50%
+
+2. Select **End session** to logout
+
+    .. image:: _static/navbar_endsession.png
