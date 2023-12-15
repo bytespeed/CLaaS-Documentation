@@ -5,22 +5,25 @@ When using AppStream, a toolbar with navigation icons will be displayed between 
 
 .. image:: _static/navbar.png
 
-Navigation Bar Icons
-------------
+**Catalog** - AppStream allows multiple applications to run at the same time. Available applications are displayed in this list. Select an application to launch it. Your current application(s) will remain open.
 
-.. image:: _static/navbar_icons.png
-
-**Launch App** - AppStream allows multiple applications to run at the same time. Available applications are displayed in this list. Select an application to launch it. Your current application(s) will remain open.
-
-**Switch Windows** - When you have more than one application started, this option will display icons for each application. Click an application icon to bring it to the front.
+**Windows** - When you have more than one application started, this option will display icons for each application. Click an application icon to bring it to the front.
 
 **My Files** - Access your Google Drive, OneDrive, and Temporary Files. Temporary Files disappear at the end of each session, so be sure to save your work in Google Drive (link) or OneDrive (link)
 
 **Clipboard** - Use this option to copy and paste from your local computer if it is not working automatically.
 
-**Settings** - A few options such as enabling your microphone and adjusting your screen size are available. Most users never alter these.
+**Microphone** - Use this option to turn off or on microphone access from the local machine.
 
-**Enter Fullscreen Mode** - Allow the AppStream application to utilize your entire screen. Press Esc to exit Fullscreen Mode.
+**Camera** - Use this option to turn off or on camera access from the local machine.
+
+**Prerences** - A few options such as adjusting your screen size and changing streaming performance are available. Most users never alter these.
+
+**Fullscreen** - Allow the AppStream application to utilize your entire screen. Press Esc to exit Fullscreen Mode.
+
+**Dual Monitor** - Allow the AppStream to utilize extra monitors.
+
+**FN Keys** - Use this option to access function keys that may not be on your keyboard or passed though to the AppStream session.
 
 **Profiles** - Feedback and Logout are available - AppStream allows multiple applications to run at the same time. Available applications are displayed in this list. Select an application to launch it. Your current application(s) will remain open.
 

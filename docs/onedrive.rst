@@ -31,19 +31,15 @@ To access your OneDrive, you must first add your OneDrive account to AppStream:
 
 .. image:: _static/myfiles_addstorage.png
 
-3.	Choose **OneDrive**.
+3.	Select the domain for your OneDrive account.
 
-.. image:: _static/myfiles_dropdown_onedrive.png
+4.	The **Permissions requested** dialog box displays. Sign in with your username and password, if requested. Then click **Accept**.
 
-4.	Under Login accounts, choose the domain for your OneDrive account.
-
-5.	The **Permissions requested** dialog box displays. Sign in with your username and password, if requested. Then click **Accept**.
-
-6.	After your OneDrive account is added to AppStream, your OneDrive folder displays in **My Files**.
+5.	After your OneDrive account is added to AppStream, your OneDrive folder displays in **My Files**.
 
 .. image:: _static/myfiles_onedrive.png
 
-7.	To work with your files and folders in **OneDrive**, choose the OneDrive folder and browse to the file or folder you want. If you do not want to work with files in OneDrive during this streaming session, close the **My Files** dialog box.
+6.	To work with your files and folders in **OneDrive**, choose the OneDrive folder and browse to the file or folder you want. If you do not want to work with files in OneDrive during this streaming session, close the **My Files** dialog box.
 
 Open a files located in One Drive from within an application
 ----------------
